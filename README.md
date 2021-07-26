@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🐡 Perkenalkan saya **Alief Azies**
+- 🎓 Saya mahasiswa tingkat akhir di Universitas Gunadarma
+- ⭐️ Sekarang sedang fokus belajar pengembangan **Android**, dan **Machine Learning**
+- 💡 Saya terbuka untuk dibimbing untuk mempelajari ilmu baru.
+- 🌻 Kontak saya di [LinkedIn](https://www.linkedin.com/in/aliefazies/) 
+
 <!--
 **aliefazies/aliefazies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
